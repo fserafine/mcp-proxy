@@ -1,0 +1,8 @@
+{
+  "name": "MCP Proxy Codespace",
+  "containerEnv": {
+    "AUTH_MODE": "jwt",
+    "UPSTREAM_AUTH": "static_bearer",
+    "FullStory": "projects/336905401346/secrets/FullStory"
+  }
+}
